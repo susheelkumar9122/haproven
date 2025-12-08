@@ -3,7 +3,7 @@
 **Hackathon • Projects • Events • Technology • Innovation**
 
 <p align="center">
-  <img src="https://haproven.netlify.app/IMG/icons/Haproven2.png" alt="Haproven Community Logo" width="150"/>
+  <img src="https://haproven.netlify.app/IMG/icons/Haproven1.png" alt="Haproven Community Logo" width="100%"/>
 </p>
 
 > **Transforming ideas into proven digital innovations through collaboration, creativity, and code.**
