@@ -86,10 +86,10 @@ Want to join the HAPROVEN journey and contribute? We welcome contributions from 
 
 जुड़ें, सीखें और हमारे साथ सहयोग करें:
 
-* **🌐 Website:** [https://haproven.netlify.app/](https://haproven.netlify.app/)
-* **💻 GitHub (Codebase):** [https://github.com/susheelcoder/haproven](https://github.com/susheelcoder/haproven)
-* **📸 Instagram:** [https://www.instagram.com/haproven](https://www.instagram.com/haproven)
-* **▶️ YouTube:** [आपका YouTube Channel Link यहाँ जोड़ें]
+* **🌐 Website:** [haproven.netlify.app/](https://haproven.netlify.app/)
+* **💻 GitHub (Codebase):** [github.com/susheelcoder/haproven](https://github.com/susheelcoder/haproven)
+* **📸 Instagram:** [instagram.com/haproven](https://www.instagram.com/haproven)
+* **▶️ YouTube:** [youtube.com/@Haproven](https://www.youtube.com/@Haproven)]
 
 ---
 
