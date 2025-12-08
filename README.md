@@ -53,10 +53,10 @@ We are a passionate team of creative coders, problem solvers, and innovators sha
 
 | Name | Role | Core Expertise | Profile |
 | :--- | :--- | :--- | :--- |
-| **[Susheel kumar]** | Founder / Lead Developer | Full Stack Development | [Link to Profile] |
-| [Teammate 1] | UI/UX Designer | User Experience, Accessibility | [Link to Profile] |
-| [Teammate 2] | Backend Dev | API Development, Data Architecture | [Link to Profile] |
-| [Teammate 3] | Research / AI Specialist | Machine Learning, Emerging Tech | [Link to Profile] |
+| **SusheelCoder** | Founder / Lead Developer | Full Stack Development | [GitHub](https://github.com/susheelcoder) |
+| [Teammate 1] | UI/UX Designer | User Experience, Accessibility | [GitHub]  |
+| [Teammate 2] | Backend Dev | API Development, Data Architecture | [GitHub]|
+| [Teammate 3] | Research / AI Specialist | Machine Learning, Emerging Tech | [GitHub] |
 
 ---
 
@@ -82,9 +82,20 @@ Want to join the HAPROVEN journey and contribute? We welcome contributions from 
 
 ---
 
+## 🌐 Connect with HAPROVEN
+
+जुड़ें, सीखें और हमारे साथ सहयोग करें:
+
+* **🌐 Website:** [haproven.netlify.app/](https://haproven.netlify.app/)
+* **💻 GitHub:** [github.com/susheelcoder/haproven](https://github.com/susheelcoder/haproven)
+* **📸 Instagram:** [instagram.com/haproven](https://www.instagram.com/haproven)
+* **▶️ YouTube:** [youtube.com/@Haproven](https://www.youtube.com/@Haproven)
+
+---
+
 ## 📜 License
 
 This project is licensed under the **MIT License**. For full details, see the [LICENSE](LICENSE) file.
 
 ---
-## 🌐 "HAPROVEN — Where Hackathons meet Real Innovation."
+## 🌟 "HAPROVEN — Where Hackathons meet Real Innovation."
