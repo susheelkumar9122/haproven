@@ -43,4 +43,4 @@ Fork this repo → Create a branch → Commit → Pull Request 🚀
 ## 📜 License
 This project is licensed under the **MIT License** — see the LICENSE file for details.
 
- 🌐 “HAPROVEN — Where Hackathons meet Real Innovation.”
+ 🌐 “HAPROVEN — Where Hackathons meet Real Innovation.”,,README.md me
