@@ -53,7 +53,7 @@ We are a passionate team of creative coders, problem solvers, and innovators sha
 
 | Name | Role | Core Expertise | Profile |
 | :--- | :--- | :--- | :--- |
-| **SusheelCoder** | Founder / Lead Developer | Full Stack Development | [GitHub](https://github.com/susheelcoder) |
+| **susheel kumar {SusheelCoder }** | Founder / Lead Developer | Full Stack Development | [GitHub](https://github.com/susheelcoder) |
 | [Teammate 1] | UI/UX Designer | User Experience, Accessibility | [GitHub]  |
 | [Teammate 2] | Backend Dev | API Development, Data Architecture | [GitHub]|
 | [Teammate 3] | Research / AI Specialist | Machine Learning, Emerging Tech | [GitHub] |
